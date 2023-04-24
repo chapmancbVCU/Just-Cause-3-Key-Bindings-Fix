@@ -18,3 +18,12 @@ saved_data_dir: The name of the directory where your saved data is located.  It 
 &emsp;&emsp;Before: set settings_dir=<saved_data_dir>\
 &emsp;&emsp;After: set settings_dir=76561199157138841
 
+6. When starting new game run the script within 10 seconds of selecting a new game in the menu.
+
+## Stream Deck Instructions
+1. Under System drag the Open action to your layout.
+2. Create a title that you find useful.
+3. Within the App / File: input paste the location to the script within quotes.
+4. Test to make sure your new action works as required.
+
+
