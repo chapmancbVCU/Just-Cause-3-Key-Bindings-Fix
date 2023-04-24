@@ -14,7 +14,7 @@ saved_data_dir: The name of the directory where your saved data is located.  It 
 4. In the Saves directory you will find a directory represented as a 16 digit integer.  Copy the name of this directory.
 5. Inside the Copy_Key_Map.bat file replaced the variable saved_data_dir with the string.  Removed the arrows and make sure there are no spaces after the equals sign.
 
-&emsp;Example\
-&emsp;Before: set settings_dir=<saved_data_dir>\
-&emsp;After: set settings_dir=76561199157138841
+&emsp;&emsp;Example\
+&emsp;&emsp;Before: set settings_dir=<saved_data_dir>\
+&emsp;&emsp;After: set settings_dir=76561199157138841
 
